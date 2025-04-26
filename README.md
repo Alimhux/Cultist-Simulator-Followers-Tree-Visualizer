@@ -67,7 +67,7 @@
 
 ## Требования
 
-- Visual Studio 2022+, Raider или другая IDE с поддержкой .NET 8.0.
+- Visual Studio 2022+, Rider или другая IDE с поддержкой .NET 8.0.
 - Windows, Linux или WSL.
 
 ## Лицензия
