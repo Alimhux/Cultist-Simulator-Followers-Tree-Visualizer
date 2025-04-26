@@ -1,0 +1,15 @@
+C:\c# projects\Project_3\SkiaSharpWork\bin\Debug\net8.0\SkiaSharpWork.deps.json
+C:\c# projects\Project_3\SkiaSharpWork\bin\Debug\net8.0\SkiaSharpWork.dll
+C:\c# projects\Project_3\SkiaSharpWork\bin\Debug\net8.0\SkiaSharpWork.pdb
+C:\c# projects\Project_3\SkiaSharpWork\obj\Debug\net8.0\SkiaSharpWork.csproj.AssemblyReference.cache
+C:\c# projects\Project_3\SkiaSharpWork\obj\Debug\net8.0\SkiaSharpWork.GeneratedMSBuildEditorConfig.editorconfig
+C:\c# projects\Project_3\SkiaSharpWork\obj\Debug\net8.0\SkiaSharpWork.AssemblyInfoInputs.cache
+C:\c# projects\Project_3\SkiaSharpWork\obj\Debug\net8.0\SkiaSharpWork.AssemblyInfo.cs
+C:\c# projects\Project_3\SkiaSharpWork\obj\Debug\net8.0\SkiaSharpWork.csproj.CoreCompileInputs.cache
+C:\c# projects\Project_3\SkiaSharpWork\obj\Debug\net8.0\SkiaSharpWork.dll
+C:\c# projects\Project_3\SkiaSharpWork\obj\Debug\net8.0\refint\SkiaSharpWork.dll
+C:\c# projects\Project_3\SkiaSharpWork\obj\Debug\net8.0\SkiaSharpWork.pdb
+C:\c# projects\Project_3\SkiaSharpWork\obj\Debug\net8.0\ref\SkiaSharpWork.dll
+C:\c# projects\Project_3\SkiaSharpWork\bin\Debug\net8.0\FollowerProcessing.dll
+C:\c# projects\Project_3\SkiaSharpWork\bin\Debug\net8.0\FollowerProcessing.pdb
+C:\c# projects\Project_3\SkiaSharpWork\obj\Debug\net8.0\SkiaShar.CBC6C70B.Up2Date

@@ -1,0 +1,75 @@
+C:/c# projects/Project_3/Project_3/obj/Debug/net8.0/Project_3.csproj.AssemblyReference.cache
+C:/c# projects/Project_3/Project_3/obj/Debug/net8.0/Project_3.GeneratedMSBuildEditorConfig.editorconfig
+C:/c# projects/Project_3/Project_3/obj/Debug/net8.0/Project_3.AssemblyInfoInputs.cache
+C:/c# projects/Project_3/Project_3/obj/Debug/net8.0/Project_3.AssemblyInfo.cs
+C:/c# projects/Project_3/Project_3/obj/Debug/net8.0/Project_3.csproj.CoreCompileInputs.cache
+C:/c# projects/Project_3/Project_3/bin/Debug/net8.0/Project_3.exe
+C:/c# projects/Project_3/Project_3/bin/Debug/net8.0/Project_3.deps.json
+C:/c# projects/Project_3/Project_3/bin/Debug/net8.0/Project_3.runtimeconfig.json
+C:/c# projects/Project_3/Project_3/bin/Debug/net8.0/Project_3.dll
+C:/c# projects/Project_3/Project_3/bin/Debug/net8.0/Project_3.pdb
+C:/c# projects/Project_3/Project_3/bin/Debug/net8.0/FollowerProcessing.dll
+C:/c# projects/Project_3/Project_3/bin/Debug/net8.0/FollowerProcessing.pdb
+C:/c# projects/Project_3/Project_3/obj/Debug/net8.0/Project_3.csproj.Up2Date
+C:/c# projects/Project_3/Project_3/obj/Debug/net8.0/Project_3.dll
+C:/c# projects/Project_3/Project_3/obj/Debug/net8.0/refint/Project_3.dll
+C:/c# projects/Project_3/Project_3/obj/Debug/net8.0/Project_3.pdb
+C:/c# projects/Project_3/Project_3/obj/Debug/net8.0/Project_3.genruntimeconfig.cache
+C:/c# projects/Project_3/Project_3/obj/Debug/net8.0/ref/Project_3.dll
+C:/c# projects/Project_3/Project_3/bin/Debug/net8.0/SkiaSharp.dll
+C:/c# projects/Project_3/Project_3/bin/Debug/net8.0/runtimes/osx/native/libSkiaSharp.dylib
+C:/c# projects/Project_3/Project_3/bin/Debug/net8.0/runtimes/win-arm64/native/libSkiaSharp.dll
+C:/c# projects/Project_3/Project_3/bin/Debug/net8.0/runtimes/win-x64/native/libSkiaSharp.dll
+C:/c# projects/Project_3/Project_3/bin/Debug/net8.0/runtimes/win-x86/native/libSkiaSharp.dll
+C:/c# projects/Project_3/Project_3/bin/Debug/net8.0/TreeProcessing.dll
+C:/c# projects/Project_3/Project_3/bin/Debug/net8.0/TreeProcessing.pdb
+C:/Users/user/Desktop/Project_3/Project_3/bin/Debug/net8.0/Project_3.exe
+C:/Users/user/Desktop/Project_3/Project_3/bin/Debug/net8.0/Project_3.deps.json
+C:/Users/user/Desktop/Project_3/Project_3/bin/Debug/net8.0/Project_3.runtimeconfig.json
+C:/Users/user/Desktop/Project_3/Project_3/bin/Debug/net8.0/Project_3.dll
+C:/Users/user/Desktop/Project_3/Project_3/bin/Debug/net8.0/Project_3.pdb
+C:/Users/user/Desktop/Project_3/Project_3/bin/Debug/net8.0/SkiaSharp.dll
+C:/Users/user/Desktop/Project_3/Project_3/bin/Debug/net8.0/runtimes/osx/native/libSkiaSharp.dylib
+C:/Users/user/Desktop/Project_3/Project_3/bin/Debug/net8.0/runtimes/win-arm64/native/libSkiaSharp.dll
+C:/Users/user/Desktop/Project_3/Project_3/bin/Debug/net8.0/runtimes/win-x64/native/libSkiaSharp.dll
+C:/Users/user/Desktop/Project_3/Project_3/bin/Debug/net8.0/runtimes/win-x86/native/libSkiaSharp.dll
+C:/Users/user/Desktop/Project_3/Project_3/bin/Debug/net8.0/FollowerProcessing.dll
+C:/Users/user/Desktop/Project_3/Project_3/bin/Debug/net8.0/TreeProcessing.dll
+C:/Users/user/Desktop/Project_3/Project_3/bin/Debug/net8.0/FollowerProcessing.pdb
+C:/Users/user/Desktop/Project_3/Project_3/bin/Debug/net8.0/TreeProcessing.pdb
+C:/Users/user/Desktop/Project_3/Project_3/obj/Debug/net8.0/Project_3.csproj.AssemblyReference.cache
+C:/Users/user/Desktop/Project_3/Project_3/obj/Debug/net8.0/Project_3.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/user/Desktop/Project_3/Project_3/obj/Debug/net8.0/Project_3.AssemblyInfoInputs.cache
+C:/Users/user/Desktop/Project_3/Project_3/obj/Debug/net8.0/Project_3.AssemblyInfo.cs
+C:/Users/user/Desktop/Project_3/Project_3/obj/Debug/net8.0/Project_3.csproj.CoreCompileInputs.cache
+C:/Users/user/Desktop/Project_3/Project_3/obj/Debug/net8.0/Project_3.csproj.Up2Date
+C:/Users/user/Desktop/Project_3/Project_3/obj/Debug/net8.0/Project_3.dll
+C:/Users/user/Desktop/Project_3/Project_3/obj/Debug/net8.0/refint/Project_3.dll
+C:/Users/user/Desktop/Project_3/Project_3/obj/Debug/net8.0/Project_3.pdb
+C:/Users/user/Desktop/Project_3/Project_3/obj/Debug/net8.0/Project_3.genruntimeconfig.cache
+C:/Users/user/Desktop/Project_3/Project_3/obj/Debug/net8.0/ref/Project_3.dll
+/Users/slavyan/Downloads/Project_3/Project_3/bin/Debug/net8.0/Project_3
+/Users/slavyan/Downloads/Project_3/Project_3/bin/Debug/net8.0/Project_3.deps.json
+/Users/slavyan/Downloads/Project_3/Project_3/bin/Debug/net8.0/Project_3.runtimeconfig.json
+/Users/slavyan/Downloads/Project_3/Project_3/bin/Debug/net8.0/Project_3.dll
+/Users/slavyan/Downloads/Project_3/Project_3/bin/Debug/net8.0/Project_3.pdb
+/Users/slavyan/Downloads/Project_3/Project_3/bin/Debug/net8.0/SkiaSharp.dll
+/Users/slavyan/Downloads/Project_3/Project_3/bin/Debug/net8.0/runtimes/osx/native/libSkiaSharp.dylib
+/Users/slavyan/Downloads/Project_3/Project_3/bin/Debug/net8.0/runtimes/win-arm64/native/libSkiaSharp.dll
+/Users/slavyan/Downloads/Project_3/Project_3/bin/Debug/net8.0/runtimes/win-x64/native/libSkiaSharp.dll
+/Users/slavyan/Downloads/Project_3/Project_3/bin/Debug/net8.0/runtimes/win-x86/native/libSkiaSharp.dll
+/Users/slavyan/Downloads/Project_3/Project_3/bin/Debug/net8.0/FollowerProcessing.dll
+/Users/slavyan/Downloads/Project_3/Project_3/bin/Debug/net8.0/TreeProcessing.dll
+/Users/slavyan/Downloads/Project_3/Project_3/bin/Debug/net8.0/FollowerProcessing.pdb
+/Users/slavyan/Downloads/Project_3/Project_3/bin/Debug/net8.0/TreeProcessing.pdb
+/Users/slavyan/Downloads/Project_3/Project_3/obj/Debug/net8.0/Project_3.csproj.AssemblyReference.cache
+/Users/slavyan/Downloads/Project_3/Project_3/obj/Debug/net8.0/Project_3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slavyan/Downloads/Project_3/Project_3/obj/Debug/net8.0/Project_3.AssemblyInfoInputs.cache
+/Users/slavyan/Downloads/Project_3/Project_3/obj/Debug/net8.0/Project_3.AssemblyInfo.cs
+/Users/slavyan/Downloads/Project_3/Project_3/obj/Debug/net8.0/Project_3.csproj.CoreCompileInputs.cache
+/Users/slavyan/Downloads/Project_3/Project_3/obj/Debug/net8.0/Project_3.csproj.Up2Date
+/Users/slavyan/Downloads/Project_3/Project_3/obj/Debug/net8.0/Project_3.dll
+/Users/slavyan/Downloads/Project_3/Project_3/obj/Debug/net8.0/refint/Project_3.dll
+/Users/slavyan/Downloads/Project_3/Project_3/obj/Debug/net8.0/Project_3.pdb
+/Users/slavyan/Downloads/Project_3/Project_3/obj/Debug/net8.0/Project_3.genruntimeconfig.cache
+/Users/slavyan/Downloads/Project_3/Project_3/obj/Debug/net8.0/ref/Project_3.dll

@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "DrbI9TwPlUE=",
+  "success": true,
+  "projectFilePath": "/Users/slavyan/Downloads/Project_3/Project_3/Project_3.csproj",
+  "expectedPackageFiles": [
+    "/Users/slavyan/.nuget/packages/skiasharp/3.116.1/skiasharp.3.116.1.nupkg.sha512",
+    "/Users/slavyan/.nuget/packages/skiasharp.nativeassets.macos/3.116.1/skiasharp.nativeassets.macos.3.116.1.nupkg.sha512",
+    "/Users/slavyan/.nuget/packages/skiasharp.nativeassets.win32/3.116.1/skiasharp.nativeassets.win32.3.116.1.nupkg.sha512"
+  ],
+  "logs": []
+}

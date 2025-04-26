@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Project_3", "Project_3\Project_3.csproj", "{1A0B0525-DDBE-46E8-A112-70065F37FF0B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FollowerProcessing", "FollowerProcessing\FollowerProcessing.csproj", "{ABD59B42-2EEF-44B7-B6CC-E3257D8EB639}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TreeProcessing", "SkiaSharpWork\TreeProcessing.csproj", "{7C96619A-6106-4841-A7FE-6D25886CB997}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1A0B0525-DDBE-46E8-A112-70065F37FF0B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A0B0525-DDBE-46E8-A112-70065F37FF0B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1A0B0525-DDBE-46E8-A112-70065F37FF0B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A0B0525-DDBE-46E8-A112-70065F37FF0B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABD59B42-2EEF-44B7-B6CC-E3257D8EB639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABD59B42-2EEF-44B7-B6CC-E3257D8EB639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABD59B42-2EEF-44B7-B6CC-E3257D8EB639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABD59B42-2EEF-44B7-B6CC-E3257D8EB639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7C96619A-6106-4841-A7FE-6D25886CB997}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C96619A-6106-4841-A7FE-6D25886CB997}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C96619A-6106-4841-A7FE-6D25886CB997}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C96619A-6106-4841-A7FE-6D25886CB997}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

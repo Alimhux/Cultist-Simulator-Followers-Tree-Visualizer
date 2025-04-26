@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Project_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0B0525-DDBE-46E8-A112-70065F37FF0B}|Project_3\\Project_3.csproj|c:\\users\\user\\desktop\\project_3\\project_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0B0525-DDBE-46E8-A112-70065F37FF0B}|Project_3\\Project_3.csproj|solutionrelative:project_3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7C96619A-6106-4841-A7FE-6D25886CB997}|SkiaSharpWork\\TreeProcessing.csproj|c:\\users\\user\\desktop\\project_3\\skiasharpwork\\treevisualaizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7C96619A-6106-4841-A7FE-6D25886CB997}|SkiaSharpWork\\TreeProcessing.csproj|solutionrelative:skiasharpwork\\treevisualaizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0B0525-DDBE-46E8-A112-70065F37FF0B}|Project_3\\Project_3.csproj|c:\\users\\user\\desktop\\project_3\\project_3\\actionofusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0B0525-DDBE-46E8-A112-70065F37FF0B}|Project_3\\Project_3.csproj|solutionrelative:project_3\\actionofusermanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1A0B0525-DDBE-46E8-A112-70065F37FF0B}|Project_3\\Project_3.csproj|c:\\users\\user\\desktop\\project_3\\project_3\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1A0B0525-DDBE-46E8-A112-70065F37FF0B}|Project_3\\Project_3.csproj|solutionrelative:project_3\\menu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TreeVisualaizer.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_3\\SkiaSharpWork\\TreeVisualaizer.cs",
+              "RelativeDocumentMoniker": "SkiaSharpWork\\TreeVisualaizer.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_3\\SkiaSharpWork\\TreeVisualaizer.cs",
+              "RelativeToolTip": "SkiaSharpWork\\TreeVisualaizer.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAgwLwAAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:50:05.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f53-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_3\\Project_3\\Program.cs",
+              "RelativeDocumentMoniker": "Project_3\\Program.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_3\\Project_3\\Program.cs",
+              "RelativeToolTip": "Project_3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:44:08.332Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ActionOfUserManager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_3\\Project_3\\ActionOfUserManager.cs",
+              "RelativeDocumentMoniker": "Project_3\\ActionOfUserManager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_3\\Project_3\\ActionOfUserManager.cs",
+              "RelativeToolTip": "Project_3\\ActionOfUserManager.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAgwGEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:43:55.228Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Menu.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Project_3\\Project_3\\Menu.cs",
+              "RelativeDocumentMoniker": "Project_3\\Menu.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Project_3\\Project_3\\Menu.cs",
+              "RelativeToolTip": "Project_3\\Menu.cs",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-03T14:35:39.51Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

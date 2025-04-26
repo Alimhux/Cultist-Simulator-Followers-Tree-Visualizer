@@ -1,0 +1,33 @@
+C:/c# projects/Project_3/FollowerProcessing/obj/Debug/net8.0/FollowerProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:/c# projects/Project_3/FollowerProcessing/obj/Debug/net8.0/FollowerProcessing.AssemblyInfoInputs.cache
+C:/c# projects/Project_3/FollowerProcessing/obj/Debug/net8.0/FollowerProcessing.AssemblyInfo.cs
+C:/c# projects/Project_3/FollowerProcessing/obj/Debug/net8.0/FollowerProcessing.csproj.CoreCompileInputs.cache
+C:/c# projects/Project_3/FollowerProcessing/bin/Debug/net8.0/FollowerProcessing.deps.json
+C:/c# projects/Project_3/FollowerProcessing/bin/Debug/net8.0/FollowerProcessing.dll
+C:/c# projects/Project_3/FollowerProcessing/bin/Debug/net8.0/FollowerProcessing.pdb
+C:/c# projects/Project_3/FollowerProcessing/obj/Debug/net8.0/FollowerProcessing.dll
+C:/c# projects/Project_3/FollowerProcessing/obj/Debug/net8.0/refint/FollowerProcessing.dll
+C:/c# projects/Project_3/FollowerProcessing/obj/Debug/net8.0/FollowerProcessing.pdb
+C:/c# projects/Project_3/FollowerProcessing/obj/Debug/net8.0/ref/FollowerProcessing.dll
+C:/Users/user/Desktop/Project_3/FollowerProcessing/bin/Debug/net8.0/FollowerProcessing.deps.json
+C:/Users/user/Desktop/Project_3/FollowerProcessing/bin/Debug/net8.0/FollowerProcessing.dll
+C:/Users/user/Desktop/Project_3/FollowerProcessing/bin/Debug/net8.0/FollowerProcessing.pdb
+C:/Users/user/Desktop/Project_3/FollowerProcessing/obj/Debug/net8.0/FollowerProcessing.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/user/Desktop/Project_3/FollowerProcessing/obj/Debug/net8.0/FollowerProcessing.AssemblyInfoInputs.cache
+C:/Users/user/Desktop/Project_3/FollowerProcessing/obj/Debug/net8.0/FollowerProcessing.AssemblyInfo.cs
+C:/Users/user/Desktop/Project_3/FollowerProcessing/obj/Debug/net8.0/FollowerProcessing.csproj.CoreCompileInputs.cache
+C:/Users/user/Desktop/Project_3/FollowerProcessing/obj/Debug/net8.0/FollowerProcessing.dll
+C:/Users/user/Desktop/Project_3/FollowerProcessing/obj/Debug/net8.0/refint/FollowerProcessing.dll
+C:/Users/user/Desktop/Project_3/FollowerProcessing/obj/Debug/net8.0/FollowerProcessing.pdb
+C:/Users/user/Desktop/Project_3/FollowerProcessing/obj/Debug/net8.0/ref/FollowerProcessing.dll
+/Users/slavyan/Downloads/Project_3/FollowerProcessing/bin/Debug/net8.0/FollowerProcessing.deps.json
+/Users/slavyan/Downloads/Project_3/FollowerProcessing/bin/Debug/net8.0/FollowerProcessing.dll
+/Users/slavyan/Downloads/Project_3/FollowerProcessing/bin/Debug/net8.0/FollowerProcessing.pdb
+/Users/slavyan/Downloads/Project_3/FollowerProcessing/obj/Debug/net8.0/FollowerProcessing.GeneratedMSBuildEditorConfig.editorconfig
+/Users/slavyan/Downloads/Project_3/FollowerProcessing/obj/Debug/net8.0/FollowerProcessing.AssemblyInfoInputs.cache
+/Users/slavyan/Downloads/Project_3/FollowerProcessing/obj/Debug/net8.0/FollowerProcessing.AssemblyInfo.cs
+/Users/slavyan/Downloads/Project_3/FollowerProcessing/obj/Debug/net8.0/FollowerProcessing.csproj.CoreCompileInputs.cache
+/Users/slavyan/Downloads/Project_3/FollowerProcessing/obj/Debug/net8.0/FollowerProcessing.dll
+/Users/slavyan/Downloads/Project_3/FollowerProcessing/obj/Debug/net8.0/refint/FollowerProcessing.dll
+/Users/slavyan/Downloads/Project_3/FollowerProcessing/obj/Debug/net8.0/FollowerProcessing.pdb
+/Users/slavyan/Downloads/Project_3/FollowerProcessing/obj/Debug/net8.0/ref/FollowerProcessing.dll

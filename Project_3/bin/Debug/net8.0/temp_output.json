@@ -1,0 +1,99 @@
+
+{
+    "elements": [
+        {
+            "id": "auclair_a",
+            "label": "Оклер, знакомая",
+            "aspects": {
+                "mortal": 1,
+                "acquaintance": 1,
+                "follower_lustenlightenment": 1
+            },
+            "description": "Оклер начитана и болезненно впечатлительна. [Возможно, получится превратить в последователя.]",
+            "xtriggers": {
+                "recruiting": "auclair_b",
+                "killmortal": "corpse",
+                "derangemortal": "lunatic",
+                "rebellion": "auclair_r"
+            },
+            "uniquenessgroup": "uqauclair"
+        },
+        {
+            "id": "auclair_b",
+            "label": "Оклер, неофит",
+            "aspects": {
+                "mortal": 1,
+                "follower": 1,
+                "winter": 2,
+                "follower_lustenlightenment": 1
+            },
+            "description": "Оклер немногословна, педантична и безжалостна.",
+            "xtriggers": {
+                "promotiontodisciple": "auclair_c",
+                "killmortal": "corpse",
+                "derangemortal": "lunatic",
+                "capturefollower": "auclair_p",
+                "rebellion": "auclair_r"
+            },
+            "uniquenessgroup": "uqauclair"
+        },
+        {
+            "id": "auclair_c",
+            "label": "Оклер, адепт",
+            "aspects": {
+                "mortal": 1,
+                "follower": 1,
+                "disciple": 1,
+                "potential": 1,
+                "winter": 5,
+                "follower_lustenlightenment": 1
+            },
+            "description": "Оклер редко говорит. Она тщательно подбирает слова и старается как можно меньше двигаться. Никто не видел, чтобы она моргала.",
+            "xtriggers": {
+                "promotionto_d_winter": "auclair_d",
+                "killmortal": "corpse",
+                "derangemortal": "lunatic",
+                "capturefollower": "auclair_p",
+                "rebellion": "auclair_r_c"
+            },
+            "uniquenessgroup": "uqauclair"
+        },
+        {
+            "id": "auclair_d",
+            "label": "Молчаливая измождённая женщина",
+            "aspects": {
+                "mortal": 1,
+                "follower": 1,
+                "disciple": 1,
+                "exalted": 1,
+                "winter": 10,
+                "follower_lustenlightenment": 1
+            },
+            "description": "Воздух холодеет, свечи гаснут, шум улицы становится приглушённым. Здесь кто-то есть.",
+            "xtriggers": {
+                "killmortal": "corpse",
+                "derangemortal": "lunatic",
+                "capturefollower": "auclair_p",
+                "rebellion": "auclair_r_d"
+            },
+            "uniquenessgroup": "uqauclair"
+        },
+        {
+            "id": "cat_a",
+            "label": "Кэт Каро, знакомая",
+            "aspects": {
+                "mortal": 1,
+                "acquaintance": 1,
+                "follower_lustenlightenment": 1
+            },
+            "description": "Женщина, зовущая себя Кэт Каро, общается с духами и предсказывает судьбу для публики. Возможно, у неё есть и другие таланты. [Возможно, получится превратить в последователя.]",
+            "xtriggers": {
+                "recruiting": "cat_b",
+                "killmortal": "corpse",
+                "derangemortal": "lunatic",
+                "rebellion": "cat_r"
+            },
+            "uniquenessgroup": "uqcat"
+        }
+]
+}
